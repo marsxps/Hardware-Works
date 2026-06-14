@@ -137,3 +137,27 @@ Version History
 - 增加作品屬名
 
 </details>
+
+## 📷成品照片
+
+<p align="center">
+    <img src="Images/PCB_Layout.jpg"
+        alt="PCB Layout"
+        width="600">
+    PCB Layout
+</p>
+
+<p align="center">
+    <img src="Images/Product_Front.jpg"
+        alt="Product Front Side"
+        width="600">
+    Product Front Side
+</p>
+
+<p align="center">
+    <img src="Images/Product_Back.jpg"
+        alt="Product Back Side"
+        width="600">
+    Product Back Side
+
+
