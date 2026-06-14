@@ -15,8 +15,7 @@
     <img src="Images/Hardware_Architecture_Diagram.jpg"
         alt="Hardware Architecture Diagram"
         width="600">
-</p>
-<p align="center">
+    <br>
     <sub> Figure 1. Hardware Architecture Diagram </sub>
 </p>
 
@@ -34,6 +33,7 @@
     <img src="Images/PCB_Layout.jpg"
         alt="PCB Layout"
         width="600">
+    <br>
     <sub> Figure 2. PCB Layout </sub>
 </p>
 
@@ -41,13 +41,15 @@
     <img src="Images/Product_Front.jpg"
         alt="Product Front Side"
         width="600">
+    <br>
     <sub> Figure 3. Product Front Side </sub>
 </p>
 
 <p align="center">
     <img src="Images/Product_Back.jpg"
         alt="Product Back Side"
-        width="600"><br>
+        width="600">
+    <br>
     <sub> Figure 4. Product Back Side </sub>
 </p>
 
