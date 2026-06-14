@@ -1,5 +1,5 @@
 # Chocolate Vending Machine
-Version History
+
 
 ## 📖專案介紹
 
@@ -9,6 +9,17 @@ Version History
 設計工具：
 - Altium Designer 21
 
+## 🔧系統架構
+
+<p align="center">
+    <img src="Images/Hardware_Architecture_Diagram.jpg"
+        alt="Hardware Architecture Diagram"
+        width="600">
+</p>
+<p align="center">
+    <sub> Figure 1. Hardware Architecture Diagram </sub>
+</p>
+
 ## 🏷️版本資訊
 
 | 項目 | 內容 |
@@ -16,6 +27,29 @@ Version History
 | Current Version | V3.2 |
 | Last Update | 2025/03/20 |
 | Status | Finsh |
+
+## 📷成品照片
+
+<p align="center">
+    <img src="Images/PCB_Layout.jpg"
+        alt="PCB Layout"
+        width="600">
+    <sub> Figure 2. PCB Layout </sub>
+</p>
+
+<p align="center">
+    <img src="Images/Product_Front.jpg"
+        alt="Product Front Side"
+        width="600">
+    <sub> Figure 3. Product Front Side </sub>
+</p>
+
+<p align="center">
+    <img src="Images/Product_Back.jpg"
+        alt="Product Back Side"
+        width="600"><br>
+    <sub> Figure 4. Product Back Side </sub>
+</p>
 
 ## 📝版本變更紀錄
 <details>
@@ -138,26 +172,5 @@ Version History
 
 </details>
 
-## 📷成品照片
-
-<p align="center">
-    <img src="Images/PCB_Layout.jpg"
-        alt="PCB Layout"
-        width="600">
-    PCB Layout
-</p>
-
-<p align="center">
-    <img src="Images/Product_Front.jpg"
-        alt="Product Front Side"
-        width="600">
-    Product Front Side
-</p>
-
-<p align="center">
-    <img src="Images/Product_Back.jpg"
-        alt="Product Back Side"
-        width="600">
-    Product Back Side
 
 
