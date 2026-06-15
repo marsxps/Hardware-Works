@@ -32,7 +32,7 @@
 <p align="center">
     <img src="Images/PCB_Layout.jpg"
         alt="PCB Layout"
-        width="600">
+        width="500">
     <br>
     <sub> Figure 2. PCB Layout </sub>
 </p>
@@ -40,7 +40,7 @@
 <p align="center">
     <img src="Images/Product_Front.jpg"
         alt="Product Front Side"
-        width="600">
+        width="500">
     <br>
     <sub> Figure 3. Product Front Side </sub>
 </p>
@@ -48,7 +48,7 @@
 <p align="center">
     <img src="Images/Product_Back.jpg"
         alt="Product Back Side"
-        width="600">
+        width="500">
     <br>
     <sub> Figure 4. Product Back Side </sub>
 </p>
