@@ -5,9 +5,11 @@
 
 本專案為巧克力販賣機控制板，
 採用 STM32F411 開發版控制周邊模組。
+並使用 3D 列印自製防異物的外殼。
 
 設計工具：
 - Altium Designer 21
+- TinkerCAD
 
 ## 🔧系統架構
 
@@ -51,6 +53,14 @@
         width="500">
     <br>
     <sub> Figure 4. Product Back Side </sub>
+</p>
+
+<p align="center">
+    <img src="Images/PCB_Shell.jpg"
+        alt="Product PCB Shell"
+        width="500">
+    <br>
+    <sub> Figure 5. Product PCB Shell </sub>
 </p>
 
 ## 📝版本變更紀錄
